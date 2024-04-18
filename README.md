@@ -1,2 +1,3 @@
 # Machine-Learning
-Labs from MIPT Machine learning cours
+The chosen labs from MIPT Machine learning course.
+
